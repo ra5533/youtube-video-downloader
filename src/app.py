@@ -318,7 +318,7 @@ def check_url(event=None):
 
 url_entry.bind("<KeyRelease>", check_url)
 
-# # ------------------ Status ------------------
+# # -------------- Status ----------------
 # status_label = ctk.CTkLabel(
 #     main_frame,	
 #     text="Ready",
@@ -329,3 +329,4 @@ url_entry.bind("<KeyRelease>", check_url)
 # ------------------ Run App ------------------
 app.protocol("WM_DELETE_WINDOW", on_close)
 app.mainloop()
+
