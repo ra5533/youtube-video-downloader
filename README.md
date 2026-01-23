@@ -31,7 +31,7 @@ A clean, fast, and stable desktop application to download YouTube videos or audi
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ra5533/video-downloader.git
-cd youtube-video-downloader
+cd video-downloader
 ```
 
 ### 2️⃣ Create virtual environment (recommended)
