@@ -1,4 +1,4 @@
-# 🎬 YouTube Video Downloader (Python + CustomTkinter)
+# 🎬 Video Downloader (Python + CustomTkinter)
 
 A clean, fast, and stable desktop application to download YouTube videos or audio using **yt-dlp**, built with **Python** and **CustomTkinter**.
 
@@ -30,7 +30,7 @@ A clean, fast, and stable desktop application to download YouTube videos or audi
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/ra5533/youtube-video-downloader.git
+git clone https://github.com/ra5533/video-downloader.git
 cd youtube-video-downloader
 ```
 
